@@ -1,24 +1,29 @@
 Ce document [NON DEFINITIF] liste les conventions de nommage qu'on va utiliser dans ce PFE.
-Ce recommandations sont à appliquer à partir du 19/10/2012 à 7h45
+Ce recommandations sont a appliquer a partir du 19/10/2012 a 7h45
 
 
 
 * Pour les mails :
 
-	- L'objet sera de la forme : [PFE - type_du_message] Objet_du_message. Avec à la place de type_de_message la précision si c'est un PV, un ODJ, un mail CLIENT,... Cette précision est facultative si non évidente. L'objet_du_message décrit succinctement le contenu du message : la date de la réunion en question, la raison du mail client,...
-	- L'utilisation de l'adresse @reseau.eseo.fr est indispensable pour toutes communication avec l'extérieur de l'équipe du projet : client, professeurs, administration,... Si le mail reste en interne, pas de règles particulières.
-	- Si le mail n'est pas adressé à tous le groupe, et donc à l'adressepfe_tst_2012@googlegroups.com, il est impératif de mettre en copie l'adressepfe.tst.2012@gmail.com pour conserver une trace. Pour les mails externes à l'équipe, la mise en copie du groupe entier ou de la boite de sauvegarde seule doit être faite en copie cachée.
-	- Pour les signatures des mails externes, elle doit être de la forme : (pour les mails internes : rien d'imposé... sauf de mettre au moins son nom !)
-		Prénom Nom
+	- L'objet sera de la forme : [PFE - type_du_message] Objet_du_message. Avec a la place de type_de_message la precision si c'est un PV, un ODJ, un mail CLIENT,... Cette precision est facultative si non evidente. L'objet_du_message decrit succinctement le contenu du message : la date de la reunion en question, la raison du mail client,...
+	- L'utilisation de l'adresse @reseau.eseo.fr est indispensable pour toutes communication avec l'exterieur de l'équipe du projet : client, professeurs, administration,... Si le mail reste en interne, pas de regles particulieres.
+	- Si le mail n'est pas adresse a tous le groupe, et donc a l'adresse pfe_tst_2012@googlegroups.com, il est imperatif de mettre en copie l'adresse pfe.tst.2012@gmail.com pour conserver une trace. Pour les mails externes à l'equipe, la mise en copie du groupe entier ou de la boite de sauvegarde seule doit etre faite en copie cachee.
+	- Pour les signatures des mails externes, elle doit etre de la forme : (pour les mails internes : rien d'impose... sauf de mettre au moins son nom !)
+		Prenom Nom
 		[Fonction dans le PFE]
 		Promotion Cooper - ESEO
-		Option Traitement du Signal et Télécommunication
+		Option Traitement du Signal et Telecommunication
 		Tel.: 06.06.06.06.06
 
 
 
 * Pour les fichiers (hors fichiers programmation) :
 
-	- Pour un PV : PV_DATEDEREUNION_Mots-Clés, avec la date au format JJMMAAA et 1 à 3 mots clés définissant les principaux sujets de la réunion séparés par des tirets (-).
+	- Pour un PV : PV_DATEDEREUNION_Mots-Cles, avec la date au format JJMMAAA et 1 à 3 mots cles définissant les principaux sujets de la reunion separes par des tirets (-).
 	- Pour un ODJ : ODJ_DATEDEREUNION, avec la date au format JJMMAAA.
 	- Pour les autres docs : Nom_du_doc_DATEDECREATION, avec la date au format JJMMAAA.
+
+
+* Pour les fichiers *.TXT (regles en cours de creation)
+
+	- Il est imperatif de NE PAS utiliser d'accents dans les fichier .txt, ou plus simplement de carateres utilisant l'ascii etendu
